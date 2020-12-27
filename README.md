@@ -1,2 +1,2 @@
 # Blogapp
-This is the first application
+This is first application
